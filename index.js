@@ -22,3 +22,5 @@ function displayTime() {
 }
 
 setInterval(displayTime, 1000);
+
+console.log(setInterval(displayTime,1000))
